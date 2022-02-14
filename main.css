@@ -1,0 +1,27 @@
+.css-box-shadow{
+    /*start ------------*/
+    width: [object Object]px; 
+    height: [object Object]px; 
+    background: #F8F8F8; 
+    border: solid #BDBDBD 1px; 
+    box-shadow: 0 0 11px rgba(0, 0, 0, 0.1)  ; 
+    -webkit-box-shadow: 0 0 11px rgba(0, 0, 0, 0.1)  ; 
+    -moz-box-shadow: 0 0 11px rgba(0, 0, 0, 0.1)  ; 
+  }
+    body { 
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+    #logo { height: 20vh;}
+			#cover { height: 100vh; display:grid; place-items: center;}
+
+    a { color:#A52A2A; text-decoration: none;}
+    h1.big { font-size:6rem; font-weight:200;}
+    h1 { font-weight:400; font-size: 3rem; margin: 5rem 0; font-family:'IBM Plex Serif'; font-style: italic;}
+  .card { width: 25rem; margin-bottom:2rem;}
+  p.timestamp { font-size: .8rem;}
+  p.category, p.name { font-family: 'IBM Plex Mono', monospace; font-weight:200; font-size: .7rem; text-transform: uppercase; margin:.25rem 0;}
+  p.date { margin: .25rem 0;}
+  p.card-text { font-size:smaller; line-height: 1.2em;}
+  #main { padding-top:10rem;}
+  .navbar a { font-family:'IBM Plex Serif', serif;}
+  nav.logo { height: 60px;}
