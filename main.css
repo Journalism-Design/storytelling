@@ -28,6 +28,6 @@
     p.category, p.name { font-family: 'IBM Plex Mono', monospace; font-weight:200; font-size: .7rem; text-transform: uppercase; margin:.25rem 0;}
     p.date { margin: .25rem 0;}
     p.card-text { font-size:smaller; line-height: 1.2em;}
-    #main { padding-top:10rem;}
+    #main { padding-top:6rem;}
     .navbar a { font-family:'IBM Plex Serif', serif; font-size:.9em;}
     nav.logo { height: 60px;}
