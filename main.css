@@ -13,13 +13,13 @@
     #logo { height: 20vh;}
 	#cover {
         position: relative;
-        height: 100vh;
+        height: 50vh;
         text-align: center;
         display: flex;
         align-items: center;
         justify-content: center;
+        flex-wrap: wrap;
       }
-
     a { color:#A52A2A; text-decoration: none;}
     h1.big { font-size:6rem; font-weight:200;}
     h1 { font-weight:400; font-size: 3rem; margin: 5rem 0; font-family:'IBM Plex Serif'; font-style: italic;}
