@@ -13,12 +13,10 @@
     #logo { height: 20vh;}
 	#cover {
         position: relative;
-        height: 50vh;
-        text-align: center;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        flex-wrap: wrap;
+        display:grid;
+        height: 100vh;
+        grid-template-rows: 100px 1fr 2fr;
+        padding: 10rem;
       }
     a { color:#A52A2A; text-decoration: none;}
     h1.big { font-size:6rem; font-weight:200;}
