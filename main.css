@@ -29,6 +29,6 @@
     #main { padding-top:6rem;}
     .navbar a { font-family:'IBM Plex Serif', serif; font-size:.9em;}
     nav.logo { height: 60px;}
-    ul.links { list-style-type: none; padding-left:0;}
-    ul.links li { display:inline; font-size:1.5rem; margin-right:1rem; }
+    
+    /* ul.links li { display:inline; font-size:1.5rem; margin-right:1rem; } */
  
